@@ -13,6 +13,8 @@ A key focus of this study is feature selection and model robustness. We construc
 - XGBoost: 0.96 (full model), 0.92 (reduced model)
 - Logistic Regression: 0.92 (both full and reduced models)
 
+The full implementation is available in the notebook.
+
 ## Interpretation of Results
 The results show that Random Forest and Logistic Regression provide stable performance regardless of feature reduction, indicating robustness to changes in the predictor set. In contrast, XGBoost achieves the highest accuracy when using the full feature set but shows a noticeable decrease in performance when features are reduced.
 
