@@ -4,11 +4,12 @@
 
 This project presents a comparative analysis of machine learning models and feature selection techniques applied to a biomedical dataset. The primary objective is to evaluate whether a reduced set of predictors can maintain predictive performance while improving model interpretability.
 
-The analysis includes Random Forest, XGBoost, and Logistic Regression models, each trained on both the full feature set and a reduced subset of top predictors identified through feature importance analysis.
+The analysis includes Random Forest, XGBoost, and Logistic Regression models, each trained on both the full feature set and a reduced subset of top predictors identified through feature importance analysis. 
 
 ## Problem Definition
 
-This study addresses a binary classification problem, where the goal is to predict a dichotomous outcome using a set of biomedical features. The binary outcome enables the evaluation of model performance using classification metrics such as accuracy.
+This study addresses a binary classification problem, where the goal is to predict a dichotomous outcome using a set of biomedical features. The binary outcome enables the evaluation of model performance using classification metrics such as accuracy.0
+
 ---
 
 ## Methods
